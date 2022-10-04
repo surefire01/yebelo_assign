@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090733201688",
+    "project_id": "yebelo-assignment",
+    "storage_bucket": "yebelo-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090733201688:android:81ad57dd9b4f8fde09e66d",
+        "android_client_info": {
+          "package_name": "com.yebelo.yebelo_assign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090733201688-kt33rtt1gmql4fv493i03rgvjite5g87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTKn2NqokQxD-AzsaBB-JK8desmHdms3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090733201688-kt33rtt1gmql4fv493i03rgvjite5g87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
